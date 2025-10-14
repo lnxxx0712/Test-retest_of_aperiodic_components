@@ -61,8 +61,9 @@ Two methods are implemented:
 
 ## 📖 Acknowledgments
 
-The FOOOF-based aperiodic activity analysis is modified from the work by Richard Höchenberger. For detailed theoretical background and implementation details, please visit:
+The FOOOF-based aperiodic activity analysis is modified from the work by Tom Donoghue and Richard Höchenberger. For detailed theoretical background and implementation details, please visit:
 
+🔗 **[fooof Repository](https://github.com/fooof-tools/fooof)**
 🔗 **[pybrain_mne Repository](https://github.com/hoechenberger/pybrain_mne)**
 
 ## 📧 Contact
