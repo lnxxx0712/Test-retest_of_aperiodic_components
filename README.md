@@ -78,23 +78,6 @@ We welcome contributions! If you encounter any issues or have suggestions:
 - Submit a pull request
 - Contact the authors directly
 
-## 📚 Citation
-
-If this repository helps your research, please cite our work:
-
-```bibtex
-@article{li2024test,
-  title={Test-Retest Reliability of EEG Aperiodic Components in Resting and Mental Task States},
-  author={Li, Na and Yang, Jingqi and Long, Changquan and Lei, Xu},
-  journal={Brain Topography},
-  volume={37},
-  number={6},
-  pages={961--971},
-  year={2024},
-  publisher={Springer},
-  doi={10.1007/s10548-024-01067-x}
-}
-```
 
 ## ⭐ Support
 
@@ -106,5 +89,3 @@ If you find this repository useful, please consider:
 ---
 
 **Keywords**: EEG, Aperiodic Activity, Test-Retest Reliability, FOOOF, LMER, Power Spectrum, ICC, Neuroscience
-
-**Study Registration**: Approved by the Review Board of Southwest University (H19050)
