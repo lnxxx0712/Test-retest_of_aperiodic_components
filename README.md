@@ -28,16 +28,6 @@ This study systematically investigates the test-retest reliability of EEG aperio
 - Python 3.7 or higher
 - pip package manager
 
-### Required Packages
-```bash
-pip install numpy scipy matplotlib
-pip install mne mne-icalabel
-pip install fooof
-pip install statsmodels
-pip install autoreject
-pip install pandas seaborn
-```
-
 ## 📊 Analysis Pipeline
 
 The analysis workflow consists of the following steps:
