@@ -33,15 +33,14 @@ This study systematically investigates the test-retest reliability of EEG aperio
 The analysis workflow consists of the following steps:
 
 ### 1. Preprocessing
-- High-pass (0.1 Hz) and low-pass (50 Hz) filtering
-- Downsampling to 250 Hz
-- Channel interpolation for noisy electrodes
+- filtering
+- Downsampling
+- Channel interpolation
 - Independent Component Analysis (ICA) for artifact removal
-- Common average reference
-- Automatic epoch rejection
+- Average reference
 
 ### 2. Power Spectral Density (PSD) Estimation
-- Welch's method (window: 512 ms, overlap: 256 ms)
+- Welch's method
 - Frequency range: 1-40 Hz
 
 ### 3. Aperiodic Component Extraction
