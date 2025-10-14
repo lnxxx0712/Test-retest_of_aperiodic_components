@@ -2,7 +2,6 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs10548--024--01067--x-blue)](https://doi.org/10.1007/s10548-024-01067-x)
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This repository provides the complete code implementation and visualization pipeline for the paper:
 
