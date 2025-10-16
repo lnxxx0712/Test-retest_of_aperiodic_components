@@ -7,28 +7,28 @@ This repository provides the complete code implementation and visualization pipe
 
 **Li, N., Yang, J., Long, C., & Lei, X. (2024). Test-Retest Reliability of EEG Aperiodic Components in Resting and Mental Task States. *Brain Topography*, 37(6), 961–971.**
 
-## 📋 Overview
+## Overview
 
 This repository contains:
-- ✅ Complete Python implementation of the analysis pipeline
-- ✅ Code for all figures and visualizations in the paper
-- ✅ Preprocessing scripts for scalp EEG data
-- ✅ Aperiodic activity extraction methods (FOOOF and LMER)
-- ✅ Test-retest reliability (ICC) calculation procedures
+- Complete Python implementation of the analysis pipeline
+- Code for all figures and visualizations in the paper
+- Preprocessing scripts for scalp EEG data
+- Aperiodic activity extraction methods (FOOOF and LMER)
+- Test-retest reliability (ICC) calculation procedures
 
 **Note:** The original raw EEG data is **NOT** included in this repository.
 
-## 🔬 About the Study
+## About the Study
 
 This study systematically investigates the test-retest reliability of EEG aperiodic components across different data durations, experimental states (resting and mental tasks), and extraction methods (FOOOF and LMER) at both short (90-min) and long (one-month) intervals.
 
-## 🛠️ Installation
+## Installation
 
 ### Prerequisites
 - Python 3.7 or higher
 - pip package manager
 
-## 📊 Analysis Pipeline
+## Analysis Pipeline
 
 The analysis workflow consists of the following steps:
 
@@ -59,14 +59,14 @@ Two methods are implemented:
 - ICC(2,k) model for random effects
 
 
-## 📖 Acknowledgments
+## Acknowledgments
 
 The FOOOF-based aperiodic activity analysis is modified from the work by Tom Donoghue and Richard Höchenberger. For detailed theoretical background and implementation details, please visit:
 
 🔗 **[fooof Repository](https://github.com/fooof-tools/fooof)**
 🔗 **[pybrain_mne Repository](https://github.com/hoechenberger/pybrain_mne)**
 
-## 📧 Contact
+## Contact
 
 For questions regarding:
 - **Analysis code or methodology**: Contact Na Li (first author)
