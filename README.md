@@ -72,7 +72,7 @@ For questions regarding:
 - **Analysis code or methodology**: Contact Na Li (first author)
 - **Original data access or usage rights**: Contact Professor Xu Lei, Southwest University
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! If you encounter any issues or have suggestions:
 - Open an issue on GitHub
@@ -80,7 +80,7 @@ We welcome contributions! If you encounter any issues or have suggestions:
 - Contact the authors directly
 
 
-## ⭐ Support
+## Support
 
 If you find this repository useful, please consider:
 - ⭐ Starring the repository
